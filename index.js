@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express()
 const PORT = 4000;
-const postList = require('./routes/posts')
+const postList = require('./src/routes/posts')
 const mangoose = require('mongoose');
 const { default: mongoose } = require('mongoose');
 require('dotenv/config');
