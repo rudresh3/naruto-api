@@ -10,11 +10,5 @@
         "src": "/(.*)",
         "dest": "/index.js"
       }
-    ],
-    "model": [
-      {
-        "src": "/(.*)",
-        "dest": "/index.js"
-      }
     ]
   }
